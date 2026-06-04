@@ -85,8 +85,7 @@ Build finance-buddy from the source and install dependencies:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Rohansinha2003/finance-buddy
-
+   git clone https://github.com/Harsh-karn/FInance-Buddy/finance-buddy
 
 
 
